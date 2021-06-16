@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaviRavipati789
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning B.E in IOT(Internet Of Things)
+- 🌱 I’m currently learning B.E with specialization in IOT(Internet Of Things)
 
 
 
